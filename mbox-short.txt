@@ -1866,9 +1866,6 @@ Received: from nakamura.uits.iupui.edu (nakamura.uits.iupui.edu [134.68.220.122]
 Received: from nakamura.uits.iupui.edu (localhost [127.0.0.1])
 	by nakamura.uits.iupui.edu (8.12.11.20060308/8.12.11) with ESMTP id m03LMFtT005150
 	for <source@collab.sakaiproject.org>; Thu, 3 Jan 2008 16:22:15 -0500
-Received: (from apache@localhost)
-	by nakamura.uits.iupui.edu (8.12.11.20060308/8.12.11/Submit) id m03LMFo4005148
-	for source@collab.sakaiproject.org; Thu, 3 Jan 2008 16:22:15 -0500
 Date: Thu, 3 Jan 2008 16:22:15 -0500
 X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to cwen@iupui.edu using -f
 To: source@collab.sakaiproject.org
